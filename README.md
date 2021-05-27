@@ -4,6 +4,11 @@
 
 Project page: https://ckkelvinchan.github.io/projects/GLEAN/
 
+## Dataset Preparation
+1. For categories other than human face, we resize the input image to the designated size (e.g. 256 for cats and 512 for cars) using the MATLAB `imresize` function.
+2. For the download links, please refer to our paper.
+
+
 ## Citations
 ```
 @InProceedings{chan2021glean,
