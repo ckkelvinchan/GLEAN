@@ -2,7 +2,7 @@
 
 **Note**: This repository is to provide meta info for training and test only. For codes and models, please refer to [MMEditing](https://github.com/open-mmlab/mmediting).
 
-Project page: https://ckkelvinchan.github.io/projects/GLEAN/
+Project page: https://www.mmlab-ntu.com/project/glean/
 
 ## Dataset Preparation
 1. For categories other than human face, we resize the input image to the designated size (e.g. 256 for cats and 512 for cars) using the MATLAB `imresize` function.
